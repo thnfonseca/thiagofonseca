@@ -69,7 +69,7 @@ email: ""
 highlight_name: false
 ---
 
-PhD Candidate of Political Science in the University of São Paulo and researcher of the Judiciary and Democracy Research Group - JUDE/USP. MA in Political Science and Bachelor in Social Science, both in the University of São Paulo. Participation on research networks about corruption (RIPC) e the Brazilian Supreme Court (Mare Incognitum).
+PhD Candidate of Political Science in the University of São Paulo and researcher of the Judiciary and Democracy Research Group - JUDE/USP. MA in Political Science and Bachelor in Social Science both from the University of São Paulo. Member of research networks about corruption (RIPC) e the Brazilian Supreme Court (Mare Incognitum).
 
 Thiago Fonseca carried out empirical research on anti-corruption institutions, judicial politics and elections. He developed codes for automated data gathering, elaborated analysis with causal inference and observational models, and taught data analysis with R in workshops.
 
