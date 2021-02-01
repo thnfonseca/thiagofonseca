@@ -45,4 +45,3 @@ design:
 
 2018, FONSECA, T. N. “Agreements from electoral financing inside the cabinets: contract distribution to electoral donors of government coalition” `[`Translated from “Acordos de financiamento eleitoral por dentro dos ministérios: Distribuição de contratos aos doadores da coalizão”`]`. Presented at 11º Conference of Brazilian Political Science Association – ABCP, Curitiba, Brazil. 
 
-#Quickly discover relevant content by [filtering publications](./publication/).
