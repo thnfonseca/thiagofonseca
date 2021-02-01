@@ -23,5 +23,5 @@
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
  [[main]]
     name = "CV"
-    url = "cv_Fonseca,TN.pdf"
+    url = "static/media/cv_Fonseca,TN.pdf"
     weight = 70
