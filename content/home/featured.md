@@ -37,11 +37,9 @@ design:
   view: 4
 ---
 
-2020, FONSECA, T. N. Does independence ensure the impartial performance of anti-corruption institutions? Evidence from the Brazilian Federal Audit Court [translated from: "Independência institucional garante a atuação imparcial de instituições de combate à corrupção? Evidências do controle exercido pelo TCU sobre os municípios"]. IX Political Science Graduate Student Seminar of University of São Paulo. `[`[link](http://sdpscp.fflch.usp.br/sites/sdpscp.fflch.usp.br/files/inline-files/Trabalhos%20completos/A%20pol%C3%ADtica%20do%20combate%20%C3%A0%20corrup%C3%A7%C3%A3o/Fonseca%2C%20TN%20(2020)%2C%20paper.pdf)`]`
+FONSECA, Thiago do N. (2020). "Between risks and threats: independence and oversight power of the Brazilian Federal Audit Court in the 1988 Constituent Assembly" `[`"Translated from “Entre riscos e ameaças: independência e controle do Tribunal de Contas da União na Assembleia Constituinte de 1988”`]`. [Opinião Pública](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-62762020000200122), 26(2).
 
-2019, FONSECA, T. N. & MOREIRA, T. M. Q. “When the Court faces government” `[`Translated from “Quando a Corte enfrenta o governo”`]`. Mare Incognintum III: empirical research challenges about Brazilian Supreme Court. 
+FONSECA, Thiago do N. (2019). “Neither political appointment, nor cooperation. The importance of Federal Audit Court's autonomy for the control of federal public resources transferred to municipalities.” `[`Translated from “Nem indicação política, nem cooperação. A importância da autonomia do TCU no controle de recursos públicos federais transferidos aos municípios”`]`. [Dados](https://www.scielo.br/scielo.php?script=sci_arttext&pid=S0011-52582019000300206), 62(3).
 
-2018, FONSECA, T. N.; MOREIRA, T. M. Q. “Individual instruments of agenda at Brazilian Supreme Court: uncovering incentives from voting order” `[`Translated from “Pedido de vista no STF: desvendando incentivos com base na ordem de votação”`]`. Mare Incognintum II: empirical research challenges about Brazilian Supreme Court.
-
-2018, FONSECA, T. N. “Agreements from electoral financing inside the cabinets: contract distribution to electoral donors of government coalition” `[`Translated from “Acordos de financiamento eleitoral por dentro dos ministérios: Distribuição de contratos aos doadores da coalizão”`]`. Presented at 11º Conference of Brazilian Political Science Association – ABCP, Curitiba, Brazil. 
+FONSECA, Thiago do N. (2017). “Do campaign donations involve future contractual returns? An analysis of the resources received by companies before and after the elections” `[`Translated from Doações de campanha implicam em retornos contratuais futuros? Uma análise dos valores recebidos por empresas antes e após as eleições`]`. [Revista de Sociologia e Política](https://www.scielo.br/scielo.php?pid=S0104-44782017000100031&script=sci_abstract&tlng=pt), v. 25, p. 31-49, 2017.
 
