@@ -37,7 +37,6 @@ design:
   view: 4
 ---
 
-{{% callout note %}}
 2020, FONSECA, T. N. Does independence ensure the impartial performance of anti-corruption institutions? Evidence from the Brazilian Federal Audit Court [translated from: "Independência institucional garante a atuação imparcial de instituições de combate à corrupção? Evidências do controle exercido pelo TCU sobre os municípios"]. IX Political Science Graduate Student Seminar of University of São Paulo. [link](http://sdpscp.fflch.usp.br/sites/sdpscp.fflch.usp.br/files/inline-files/Trabalhos%20completos/A%20pol%C3%ADtica%20do%20combate%20%C3%A0%20corrup%C3%A7%C3%A3o/Fonseca%2C%20TN%20(2020)%2C%20paper.pdf)
 
 2019, FONSECA, T. N. & MOREIRA, T. M. Q. “When the Court faces government” `[`Translated from “Quando a Corte enfrenta o governo”`]`. Mare Incognintum III: empirical research challenges about Brazilian Supreme Court. 
@@ -47,4 +46,3 @@ design:
 2018, FONSECA, T. N. “Agreements from electoral financing inside the cabinets: contract distribution to electoral donors of government coalition” `[`Translated from “Acordos de financiamento eleitoral por dentro dos ministérios: Distribuição de contratos aos doadores da coalizão”`]`. Presented at 11º Conference of Brazilian Political Science Association – ABCP, Curitiba, Brazil. 
 
 #Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
